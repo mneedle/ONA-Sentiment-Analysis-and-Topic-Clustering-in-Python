@@ -5,4 +5,4 @@ This is an Organizational Network Analysis, Sentiment Analysis, and Topic Cluste
 The Enron Email corpus (https://www.cs.cmu.edu/~enron/) was collected and prepared by the CALO Project (A Cognitive Assistant that Learns and Organizes). It contains data from about 150 users, mostly senior management of Enron, organized into folders. The corpus contains a total of about 0.5M messages. This data was originally made public, and posted to the web, by the Federal Energy Regulatory Commission during its investigation.
 
 # Instructions to Run
-To run the "Enron Compiled.ipynb" script, you will need to install and load several Python packages (pandas, numpy, seaborn, matplotlib, scipy, sklearn, statsmodel, nltk, glob, os, email.parser, afinn, wordcloud, datetime, networkx, collections, re, pingouin, researchpy, plotly, textblob, statistics, and wget).
+To run the "Enron Compiled.ipynb" script, you will need to install and load several Python packages (pandas, numpy, seaborn, matplotlib, scipy, sklearn, statsmodel, nltk, glob, os, email.parser, afinn, wordcloud, datetime, networkx, collections, re, pingouin, researchpy, plotly, textblob, statistics, itertools, and wget).
